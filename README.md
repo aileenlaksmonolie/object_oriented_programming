@@ -1,2 +1,7 @@
-# object_oriented_programming
-Java
+# Object Oriented Programming in Java
+
+## 1. Project 1
+      University course registration system that allows admin and student access. 
+      Students are able to add or drop course. 
+      Admin is able to add students to the studentList and courses to the courseList.
+      
